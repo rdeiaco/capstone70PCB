@@ -206,6 +206,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CWAVCFJV
 
+[Document11]
+DocumentPath=PSOC.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ELJUYPVO
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for capstone_pcb\capstone_pcb.nsx
 DItemRevisionGUID=

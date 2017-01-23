@@ -156,7 +156,7 @@ GenerateClassCluster=0
 DocumentUniqueId=MUBBNIFB
 
 [Document8]
-DocumentPath=SPM0408LE5H-TB.PcbLib
+DocumentPath=Microphones.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -170,7 +170,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=YDTWPSVT
 
 [Document9]
 DocumentPath=SOT-223.PcbLib
@@ -222,6 +222,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UVJCVEFY
+
+[Document12]
+DocumentPath=PSOC.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ONJKBJUJ
 
 [GeneratedDocument1]
 DocumentPath=opamps.cmp
