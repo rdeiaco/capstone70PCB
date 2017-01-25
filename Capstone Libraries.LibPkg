@@ -122,6 +122,23 @@ GenerateClassCluster=0
 DocumentUniqueId=KELMISHT
 
 [Document6]
+DocumentPath=D1206.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MUBBNIFB
+
+[Document7]
 DocumentPath=Resistors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -137,23 +154,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BYHYPLLS
-
-[Document7]
-DocumentPath=..\..\..\..\..\rdeiaco\Downloads\D1206.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=MUBBNIFB
 
 [Document8]
 DocumentPath=Microphones.PcbLib
