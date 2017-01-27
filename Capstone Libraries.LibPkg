@@ -207,7 +207,7 @@ GenerateClassCluster=0
 DocumentUniqueId=EQRRVEPK
 
 [Document11]
-DocumentPath=HPM-06-02-T-S-RA.PcbLib
+DocumentPath=L-Connector.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
